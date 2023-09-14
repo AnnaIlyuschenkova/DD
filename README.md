@@ -29,9 +29,9 @@ https://teachers.skyeng.ru/schedule
 
 ## Тестирование требований
 
-На первом этапе произведено тестирование требований, его результаты отражены в плане тестирования ([ссылка](Личный кабинет преподавателя Skyeng/Тест-план.pdf)
+На первом этапе произведено тестирование требований, его результаты отражены в плане тестирования ([ссылка](https://github.com/AnnaIlyuschenkova/DD/blob/f0ead8a8e075cd1707a358bdb936e138fc293020/%D0%9B%D0%B8%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%20%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%20Skyeng/%D0%A2%D0%B5%D1%81%D1%82-%D0%BF%D0%BB%D0%B0%D0%BD.pdf))
 
-## Тест-план можно посмотреть по [ссылке](https://github.com/AnnaIlyuschenkova/DD/blob/main/%D0%9B%D0%B8%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%20%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%20Skyeng/%D0%A2%D0%B5%D1%81%D1%82-%D0%BF%D0%BB%D0%B0%D0%BD.pdf)
+## Тест-план можно посмотреть по [ссылке](https://github.com/AnnaIlyuschenkova/DD/blob/f0ead8a8e075cd1707a358bdb936e138fc293020/%D0%9B%D0%B8%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%20%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%20Skyeng/%D0%A2%D0%B5%D1%81%D1%82-%D0%BF%D0%BB%D0%B0%D0%BD.pdf)
 
 ## Декомпозиция новой функции продукта 
 
@@ -40,7 +40,8 @@ https://teachers.skyeng.ru/schedule
 ## Тестовая документация
 
 Для написания smoke и приемочных тестов я использовала Qase:
-- [Тест-кейсы приемочного тестирования](https://github.com/AnnaIlyuschenkova/DD/blob/main/%D0%9B%D0%B8%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%20%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%20Skyeng/%D0%9F%D1%80%D0%B8%D0%B5%D0%BC%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D1%82%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B.pdf),
+- [Тест-кейсы приемочного тестирования](https://github.com/AnnaIlyuschenkova/DD/blob/f0ead8a8e075cd1707a358bdb936e138fc293020/%D0%9B%D0%B8%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%20%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%20Skyeng/%D0%9F%D1%80%D0%B8%D0%B5%D0%BC%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D1%82%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B.pdf),
+
 - [Тест-кейсы smoke-тестирования](https://github.com/AnnaIlyuschenkova/DD/blob/main/%D0%9B%D0%B8%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%20%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%20Skyeng/smoke%20%D1%82%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B.pdf). 
 
 Чек-листы для функционального и регрессионного тестирования разработала в Sitechko:
