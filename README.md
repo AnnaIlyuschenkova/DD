@@ -1,4 +1,4 @@
-Личный кабинет преподавателя Skyeng/Приемочные тест-кейсы.pdf
+https://drive.google.com/file/d/1TUYq0wf72iOU5mjG4u3Ylbkjy9uMZtp9/view?usp=drive_link
 
 # Портфолио: инженер по тестированию
 ## Обо мне
